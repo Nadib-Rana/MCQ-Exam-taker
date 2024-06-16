@@ -1,0 +1,25 @@
+1) How is the most richest persoion in the world?
+[A] Elon Musk
+[B] Bernard Arnault & family
+[C] Jeff Bezos
+[D] Mark Zuckerberg
+2) What is the current location of GUB campus?
+[A] Uttata
+[B] Narayanganj
+[C] Mirpur
+[D] Motijhil
+3) What is your Class teacher name of O.S lab?
+[A] Kamrul Hasan
+[B] Abdullah Al Farhad
+[C] Julfiker Ali 
+[D] Most. Rokeya Khatun
+4) Who is the prime minister of Bangladesh?
+[A] Sheikh Hasina
+[B] Ananta Jalil
+[C] Begum Khaleda Jia
+[D] Obaydul Kader
+5) Which is used for backend in web programming?
+[A] HTML
+[B] PHP
+[C] CSS
+[D] JavaScript
